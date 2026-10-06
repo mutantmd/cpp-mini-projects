@@ -1,0 +1,1 @@
+cmake-build-debug/ , .idea/ , *.o , *.exe , CMakeCache.txt , CMakeFiles/
